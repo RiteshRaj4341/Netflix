@@ -1,2 +1,2 @@
 # Netflix
-Front Page of Netflix using HTML, CSS and JS
+Front Page of Netflix using HTML and CSS
